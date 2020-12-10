@@ -2,6 +2,6 @@
 
 int main()
 {
-	MainMenu();
+	MainMenu();//иллюзия изменений
 	return 0;
 }
