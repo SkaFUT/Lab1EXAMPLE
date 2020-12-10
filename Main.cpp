@@ -3,5 +3,5 @@
 int main()
 {
 	MainMenu();//иллюзия изменений
-	return 0;
+	return 0;//пример 1 из ветвей
 }
