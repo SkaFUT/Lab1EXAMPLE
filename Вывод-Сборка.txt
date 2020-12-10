@@ -1,0 +1,5 @@
+﻿1>------ Сборка начата: проект: Chuprov_Maxim_IB11, Конфигурация: Debug Win32 ------
+1>MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+1>C:\Users\kryle\source\repos\Chuprov_Maxim_IB11\Debug\Chuprov_Maxim_IB11.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+1>Сборка проекта "Chuprov_Maxim_IB11.vcxproj" завершена с ошибкой.
+========== Сборка: успешно: 0, с ошибками: 1, без изменений: 0, пропущено: 0 ==========
